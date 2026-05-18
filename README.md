@@ -15,7 +15,7 @@ Third-year Electronics and Communication Engineering student with strong interes
 
 ---
 
-### Environmental Telemetry System (Group Project)
+### Environmental Telemetry System 
 - Developed an IoT-based environmental monitoring system for real-time tracking of temperature, humidity, air quality, and light intensity.
 - Used ESP32, DHT22, MQ135 gas sensor, and LDR sensors for continuous environmental data collection.
 - Implemented wireless data transmission using MQTT protocol for remote monitoring.
